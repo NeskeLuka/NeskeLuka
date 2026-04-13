@@ -11,7 +11,7 @@ I’m particularly interested in:
 ### 🛠️ Tech Stack
 
 * **Languages:** C++, C, Python, Java
-* **Other:** .NET, HTML5, CSS
+* **Other:** .NET, HTML5, CSS3, BOOTSTRAP
 
 I enjoy working close to the system level, understanding how things work under the hood, and writing code that is both efficient and maintainable.
 
